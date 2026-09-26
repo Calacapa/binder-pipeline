@@ -1,0 +1,20 @@
+# Never commit design data, structures, or run output
+runs/
+archives/
+*.pdb
+*.fasta
+*.fa
+*.a3m
+*.jsonl
+metrics.csv
+manifest.csv
+
+# Environments, caches, logs
+envs/
+miniconda3/
+tools/
+logs/
+*.log
+__pycache__/
+*.pyc
+.DS_Store

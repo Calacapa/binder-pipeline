@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "binder-pipeline: a staged RFdiffusion / ProteinMPNN / AlphaFold2-Multimer workflow for de novo mini-binder design"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Curran
+    given-names: Kevin Patrick
+    orcid: "https://orcid.org/0009-0004-1822-2311"
+    affiliation: "Calacapa LLC"
+repository-code: "https://github.com/REPLACE_ME/binder-pipeline"
+license: Apache-2.0
+version: 1.0.0
+date-released: "2026-09-26"
+keywords:
+  - protein design
+  - de novo binder design
+  - antivirulence
+  - RFdiffusion
+  - ProteinMPNN
+  - AlphaFold2
+# After the first GitHub release is archived by Zenodo, add the minted DOI here:
+# doi: 10.5281/zenodo.XXXXXXX
