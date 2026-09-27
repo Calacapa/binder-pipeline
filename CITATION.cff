@@ -18,5 +18,4 @@ keywords:
   - RFdiffusion
   - ProteinMPNN
   - AlphaFold2
-# After the first GitHub release is archived by Zenodo, add the minted DOI here:
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.22984551
