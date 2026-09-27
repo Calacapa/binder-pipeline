@@ -7,7 +7,7 @@ authors:
     given-names: Kevin Patrick
     orcid: "https://orcid.org/0009-0004-1822-2311"
     affiliation: "Calacapa LLC"
-repository-code: "https://github.com/REPLACE_ME/binder-pipeline"
+repository-code: "https://github.com/Calacapa/binder-pipeline"
 license: Apache-2.0
 version: 1.0.0
 date-released: "2026-09-26"
